@@ -1,0 +1,14 @@
+{
+  "name": "GooseUpdateClient",
+  "version": "1.0.0",
+  "description": "Open-source reimplementation of Discord's new updater client for modules.",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "GooseMod",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "tar": "^6.0.5"
+  },
+  "type": "module"
+}
